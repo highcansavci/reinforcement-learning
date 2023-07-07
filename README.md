@@ -13,6 +13,9 @@ Reinforcement Learning
 ![Ekran Görüntüsü (752)](https://github.com/highcansavci/reinforcement-learning/assets/43791867/4302859d-4b45-415d-80db-800e6b35e633)
 * MDP Types:
 ![Ekran Görüntüsü (754)](https://github.com/highcansavci/reinforcement-learning/assets/43791867/863f344d-5577-4151-ad8d-83d41f949b3e)
+* Bellman Optimality Equation:
+![Ekran Görüntüsü (758)](https://github.com/highcansavci/reinforcement-learning/assets/43791867/3b49ef23-4f23-4b79-97bf-c181b9c1340c)
+
 
 
 
