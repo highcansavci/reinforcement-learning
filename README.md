@@ -17,6 +17,9 @@ Reinforcement Learning
 ![Ekran Görüntüsü (758)](https://github.com/highcansavci/reinforcement-learning/assets/43791867/3b49ef23-4f23-4b79-97bf-c181b9c1340c)
 ![Ekran Görüntüsü (760)](https://github.com/highcansavci/reinforcement-learning/assets/43791867/65106ec5-fea5-4d10-b773-281a9d3aa047)
 ![Ekran Görüntüsü (761)](https://github.com/highcansavci/reinforcement-learning/assets/43791867/5b99d61e-8663-4863-8864-d7f56915e6ae)
+![Ekran Görüntüsü (762)](https://github.com/highcansavci/reinforcement-learning/assets/43791867/e6eb307f-a1fe-418c-bf18-fef0746b8c79)
+![Ekran Görüntüsü (763)](https://github.com/highcansavci/reinforcement-learning/assets/43791867/dc9e4d4c-a3d0-4e0f-88b9-9d2979168092)
+
 
 
 
