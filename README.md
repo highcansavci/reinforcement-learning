@@ -16,6 +16,8 @@ Reinforcement Learning
 * Bellman Optimality Equation:
 ![Ekran Görüntüsü (758)](https://github.com/highcansavci/reinforcement-learning/assets/43791867/3b49ef23-4f23-4b79-97bf-c181b9c1340c)
 ![Ekran Görüntüsü (760)](https://github.com/highcansavci/reinforcement-learning/assets/43791867/65106ec5-fea5-4d10-b773-281a9d3aa047)
+![Ekran Görüntüsü (761)](https://github.com/highcansavci/reinforcement-learning/assets/43791867/5b99d61e-8663-4863-8864-d7f56915e6ae)
+
 
 
 
