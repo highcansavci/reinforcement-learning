@@ -22,6 +22,8 @@ Reinforcement Learning
 ![Ekran Görüntüsü (765)](https://github.com/highcansavci/reinforcement-learning/assets/43791867/17af05e6-80c3-4871-b5d5-37dae2a99462)
 * Policy Improvement:
 ![Ekran Görüntüsü (766)](https://github.com/highcansavci/reinforcement-learning/assets/43791867/edf1b14f-7ce4-4541-8a5b-884f4638b172)
+![Ekran Görüntüsü (767)](https://github.com/highcansavci/reinforcement-learning/assets/43791867/5c712e59-908f-450b-8219-57e62eb58379)
+
 
 
 
