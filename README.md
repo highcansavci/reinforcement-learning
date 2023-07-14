@@ -28,6 +28,9 @@ Reinforcement Learning
 ![Ekran Görüntüsü (769)](https://github.com/highcansavci/reinforcement-learning/assets/43791867/4c955507-6155-417d-a324-19865f9f3555)
 * Value Iteration:
 ![Ekran Görüntüsü (775)](https://github.com/highcansavci/reinforcement-learning/assets/43791867/bcff888c-d116-40ad-8f33-36c247b00e44)
+* Summary:
+![Ekran Görüntüsü (776)](https://github.com/highcansavci/reinforcement-learning/assets/43791867/687233eb-fa85-4e52-8cdf-a15c57848aaf)
+
 
 
 
