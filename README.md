@@ -30,6 +30,9 @@ Reinforcement Learning
 ![Ekran Görüntüsü (775)](https://github.com/highcansavci/reinforcement-learning/assets/43791867/bcff888c-d116-40ad-8f33-36c247b00e44)
 * Summary:
 ![Ekran Görüntüsü (776)](https://github.com/highcansavci/reinforcement-learning/assets/43791867/687233eb-fa85-4e52-8cdf-a15c57848aaf)
+* Temporal Difference Learning:
+![Ekran Görüntüsü (777)](https://github.com/highcansavci/reinforcement-learning/assets/43791867/d8094d51-4d65-4a04-895e-99bd8d05a6e6)
+
 
 
 
