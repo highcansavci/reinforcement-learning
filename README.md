@@ -32,6 +32,10 @@ Reinforcement Learning
 ![Ekran Görüntüsü (776)](https://github.com/highcansavci/reinforcement-learning/assets/43791867/687233eb-fa85-4e52-8cdf-a15c57848aaf)
 * Temporal Difference Learning:
 ![Ekran Görüntüsü (777)](https://github.com/highcansavci/reinforcement-learning/assets/43791867/d8094d51-4d65-4a04-895e-99bd8d05a6e6)
+* SARSA Pseudocode:
+![Ekran Görüntüsü (780)](https://github.com/highcansavci/reinforcement-learning/assets/43791867/090d6ad4-81aa-4170-896e-59c83d923c9f)
+* Q-Learning Pseudocode:  
+![Ekran Görüntüsü (779)](https://github.com/highcansavci/reinforcement-learning/assets/43791867/caac9c21-cf5c-491f-87be-e82d3d78d8e3)  
 * Q-Learning vs SARSA:
 ![Ekran Görüntüsü (778)](https://github.com/highcansavci/reinforcement-learning/assets/43791867/e3d1ce3d-d97b-4ddb-a6ee-d603342f0f5c)
 
