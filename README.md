@@ -38,6 +38,9 @@ Reinforcement Learning
 ![Ekran Görüntüsü (779)](https://github.com/highcansavci/reinforcement-learning/assets/43791867/caac9c21-cf5c-491f-87be-e82d3d78d8e3)  
 * Q-Learning vs SARSA:
 ![Ekran Görüntüsü (778)](https://github.com/highcansavci/reinforcement-learning/assets/43791867/e3d1ce3d-d97b-4ddb-a6ee-d603342f0f5c)
+* RL Steps:
+![Ekran Görüntüsü (783)](https://github.com/highcansavci/reinforcement-learning/assets/43791867/bfe59671-c191-4b52-bf37-531d2a1893aa)
+
 
 
 
